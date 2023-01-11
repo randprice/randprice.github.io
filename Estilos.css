@@ -1,0 +1,25 @@
+body {
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
+   background-position: center;
+   color: black;
+}
+h1{
+   color: steelblue;
+}
+h2 {
+   color: steelblue;
+}
+h3 {
+width: 30%;
+background-color: rgb(139,175,243) ;
+margin: auto;
+display: inline-block;
+text-align: center;
+border: 3px ridge rgb(255,0,0);
+border-color: steelblue;
+font-size: 25;
+}
+
+

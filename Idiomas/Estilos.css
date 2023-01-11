@@ -1,0 +1,16 @@
+body {
+  background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
+   background-position: center;
+   color: black;
+}
+h1{
+   color: steelblue;
+}
+h2 {
+   color: steelblue;
+}
+h3 {
+   color: steelblue;
+}
